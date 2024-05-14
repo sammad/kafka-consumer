@@ -1,0 +1,3 @@
+[submodule "gradle-kafka-consumer"]
+	path = gradle-kafka-consumer
+	url = https://github.com/pragyamutluru/gradle-kafka-consumer.git
