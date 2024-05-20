@@ -1,3 +1,6 @@
 [submodule "gradle-kafka-consumer"]
 	path = gradle-kafka-consumer
 	url = https://github.com/pragyamutluru/gradle-kafka-consumer.git
+[submodule "spring-kafka-consumer"]
+	path = spring-kafka-consumer
+	url = https://github.com/pragyamutluru/spring-kafka-consumer.git
