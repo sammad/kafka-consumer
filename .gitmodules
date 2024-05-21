@@ -4,3 +4,6 @@
 [submodule "spring-kafka-consumer"]
 	path = spring-kafka-consumer
 	url = https://github.com/pragyamutluru/spring-kafka-consumer.git
+[submodule "nodejs-kafka-consumer"]
+	path = nodejs-kafka-consumer
+	url = https://github.com/FUNJABIVRUSH/nodejs-kafka-consumer.git
